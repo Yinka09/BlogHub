@@ -6,6 +6,16 @@ body {
   height: 100vh;
 }
 
+.custom-gradient-button {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  border: none;
+}
+
+.custom-gradient-button a {
+  color: black;
+  text-decoration: none;
+}
+
 .ql-editor {
   font-size: 1.05rem;
 }
